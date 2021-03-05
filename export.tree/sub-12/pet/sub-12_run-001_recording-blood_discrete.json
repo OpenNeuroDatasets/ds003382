@@ -1,0 +1,18 @@
+{
+   "SampleTime": {
+      "Description": "Time of sampling blood wrt to TimeZero",
+      "Units": "s"
+   },
+   "MeasurementTime": {
+      "Description": "Time of measuring counts wrt to TimeZero",
+      "Units": "s"
+   },
+   "CPM": {
+      "Description": "Counts Per Minutes measurement",
+      "Units": "unitless"
+   },
+   "TC": {
+      "Description": "Total counts measurement",
+      "Units": "unitless"
+   }
+}
