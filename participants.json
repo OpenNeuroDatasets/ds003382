@@ -20,6 +20,9 @@
   "education_specify": {
     "Description": "the highest level of formal education completed (i.e., does not include uncompleted education or education currently undertaken)"
   },
+  "body_weight":{
+    "Description": "body weight of the participant"
+  },
   "efl": {
     "Description": "english as first language"
   },
