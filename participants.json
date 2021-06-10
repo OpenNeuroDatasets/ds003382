@@ -98,10 +98,10 @@
   "cesd_r": {
     "Description": "Centre for Epidemiological Studies Depression Inventory - Revised total score"
   },
-  "dose": {
-    "Description": "FDG dose in MBq"
-  },
   "bsl": {
     "Description": "Blood sugar level"
+  },
+  "dose": {
+    "Description": "FDG dose in MBq"
   }
 }
