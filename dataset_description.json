@@ -22,7 +22,7 @@
         "ARC Discovery Early Career Researcher Award (DE150100406)",
         "National Health and Medical Research Council Fellowship (APP1174164)."
     ],
-    "HowToAcknowledge": "Cite this paper: \n[1] Jamadar, S. D., Ward, P. G., Li, S., Sforazzini, F., Baran, J., Chen, Z., & Egan, G. F. (2019). Simultaneous task-based BOLD-fMRI and [18-F] FDG functional PET for measurement of neuronal metabolism in the human visual cortex. Neuroimage, 189, 258-266.  \n[2] Jamadar, S. D., Zhong, S., Carey, A., McIntyre, R., Ward, P. G., Fornito, A., ... & Egan, G. F. (2021). Task-evoked simultaneous FDG-PET and fMRI data for measurement of neural metabolism in the human visual cortex. Scientific Data, 8(1), 1-9.\nConsider including the following message 'This data was obtained from the OpenNeuro database.'",
+    "HowToAcknowledge": "Cite the papers: \n* Jamadar, S. D., Ward, P. G., Li, S., Sforazzini, F., Baran, J., Chen, Z., & Egan, G. F. (2019). Simultaneous task-based BOLD-fMRI and [18-F] FDG functional PET for measurement of neuronal metabolism in the human visual cortex. Neuroimage, 189, 258-266.  \n* Jamadar, S. D., Zhong, S., Carey, A., McIntyre, R., Ward, P. G., Fornito, A., ... & Egan, G. F. (2021). Task-evoked simultaneous FDG-PET and fMRI data for measurement of neural metabolism in the human visual cortex. Scientific Data, 8(1), 1-9.\nConsider including the following message 'This data was obtained from the OpenNeuro database.'",
     "License": "CC0",
     "Name": "Monash vis-fPET-fMRI",
     "ReferencesAndLinks": [
