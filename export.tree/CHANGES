@@ -1,0 +1,19 @@
+1.1.5 2021-03-22
+  - fix deface sub-12 anat
+1.1.4 2021-03-07
+  - add missing data
+Revision history for Monash REST PET Dataset
+
+1.1.3 2021-03-05
+  - remove unsuccesfuly tmp files uploads
+1.1.2 2021-03-05
+  - fix fPET for sub14 and 16
+1.1.1 2021-03-05
+  - fix sub 14 and 16 for fPET data
+1.1.0 2021-03-05
+  - fix fPET data for sub2 6 14 and 16
+Revision history for Monash REST PET Dataset
+
+1.0.0 2020-11-09
+
+ - Version 1.0.0 data release
