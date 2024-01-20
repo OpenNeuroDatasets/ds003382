@@ -1,0 +1,8 @@
+{
+   "PlasmaAvail": true,
+   "MetaboliteAvail": false,
+   "MetaboliteRecoveryCorrectionApplied": false,
+   "ContinuousBloodAvail": false,
+   "ContinuousBloodDispersionCorrected": false,
+   "DiscreteBloodAvail": true
+}
